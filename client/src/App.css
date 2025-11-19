@@ -1,0 +1,162 @@
+/* AGGIUNGI QUESTO ALL'INIZIO ASSOLUTO DEL FILE */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Reset Globale */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  /* Variabili Colori Tema */
+  --color-primary: #5A67D8; /* Viola medio per accenti */
+  --color-primary-dark: #4C51BF; /* Viola scuro */
+  --color-secondary: #007bff; /* Blu classico */
+  --color-bg-dark: #1A202C; /* Sfondo scuro principale */
+  --color-bg-card: #2D3748; /* Sfondo card più chiaro del BG */
+  --color-text-light: #E2E8F0; /* Testo chiaro per scuro */
+  --color-text-muted: #A0AEC0; /* Testo secondario */
+  --color-border: #4A5568; /* Bordi sottili */
+  --color-success: #48BB78; /* Verde per successo */
+  --color-danger: #FC8181; /* Rosso per errori */
+
+  /* Ombre */
+  --shadow-medium: 0 5px 15px rgba(0, 0, 0, 0.3);
+  --shadow-large: 0 10px 30px rgba(0, 0, 0, 0.4);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--color-bg-dark);
+  color: var(--color-text-light);
+  line-height: 1.6;
+}
+
+/* Stile per i link di React Router */
+a {
+  text-decoration: none;
+  color: var(--color-primary);
+  font-weight: 500;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: var(--color-primary-dark);
+  text-decoration: underline;
+}
+
+/* CARD: La "Card" base per layout principali (NON per login full-screen) */
+.card {
+  background-color: var(--color-bg-card);
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: var(--shadow-medium);
+  width: 100%;
+  max-width: 600px; /* Card più larga */
+  margin: 20px auto; /* Centra con margine */
+  color: var(--color-text-light);
+}
+
+/* Titoli */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-text-light);
+  margin-bottom: 1rem;
+}
+
+/* Stili base per FORM moderni */
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-field {
+  width: 100%;
+  padding: 14px 18px;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  background-color: var(--color-bg-dark); /* Campo scuro */
+  color: var(--color-text-light);
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.form-field::placeholder {
+  color: var(--color-text-muted);
+}
+
+.form-field:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(90, 103, 216, 0.4); /* Viola con trasparenza */
+}
+
+/* BOTTONE PRINCIPALE (Stile uiverse.io semplice ma moderno) */
+.btn-primary {
+  display: inline-flex; /* Per centrare l'icona se presente */
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: var(--color-primary); /* Viola */
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary:hover {
+  background-color: var(--color-primary-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* BOTTONE SECONDARIO (per "Crea nuovo account") */
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: var(--color-bg-card); /* Sfondo card */
+  color: var(--color-primary); /* Testo viola */
+  padding: 14px 20px;
+  border: 1px solid var(--color-primary);
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn-secondary:hover {
+  background-color: rgba(90, 103, 216, 0.1); /* Viola trasparente */
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+.btn-secondary:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Divisore tra form e bottone secondario */
+.form-divider {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 20px 0;
+}
