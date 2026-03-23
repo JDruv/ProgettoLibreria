@@ -1,0 +1,27 @@
+.navbar {
+  background-color: var(--color-bg-card);
+  padding: 10px 20px;
+  box-shadow: var(--shadow-small);
+}
+
+.navbar-menu {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-menu li {
+  display: inline;
+}
+
+.navbar-menu a {
+  text-decoration: none;
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+.navbar-menu a:hover {
+  text-decoration: underline;
+}
