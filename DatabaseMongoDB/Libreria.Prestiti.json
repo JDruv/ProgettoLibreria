@@ -1,0 +1,380 @@
+[{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4262"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4230"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4247"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.934Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4263"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4230"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4249"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.934Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4264"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4230"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a424c"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.934Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4265"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4230"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4252"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.934Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4266"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4230"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4246"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.934Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4268"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4229"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4245"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.939Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4269"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4229"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4242"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.939Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a426a"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4229"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4254"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.939Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a426b"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4229"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a424f"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.939Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a426c"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4229"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4243"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.939Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a426e"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a422e"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a424a"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.941Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a426f"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a422e"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4244"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.941Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4270"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a422e"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4255"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.941Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4271"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a422e"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4250"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.941Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4272"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a422e"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4253"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.941Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4274"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4235"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4248"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.944Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4275"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4235"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a424b"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.944Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4276"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4235"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a424d"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.944Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4277"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4235"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a424e"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.944Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d351acf5e596453a4278"
+  },
+  "utente": {
+    "$oid": "6921d335acf5e596453a4235"
+  },
+  "libro": {
+    "$oid": "6921d348acf5e596453a4251"
+  },
+  "dataRestituzionePrevista": {
+    "$date": "2025-12-22T15:14:25.944Z"
+  },
+  "restituito": false,
+  "dataPrestito": {
+    "$date": "2025-11-22T15:14:25.944Z"
+  },
+  "__v": 0
+}]

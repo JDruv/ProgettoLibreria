@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4242"
+  },
+  "titolo": "Brave New World",
+  "autore": "Henry David Thoreau",
+  "anno": 1968,
+  "genere": "Romanzo",
+  "isbn": "978-0-05-765060-1",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4243"
+  },
+  "titolo": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "autore": "Samuel Richardson",
+  "anno": 1994,
+  "genere": "Storico",
+  "isbn": "978-1-77478-218-7",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4244"
+  },
+  "titolo": "As I Lay Dying",
+  "autore": "Dean Koontz",
+  "anno": 1956,
+  "genere": "Storico",
+  "isbn": "978-0-00-382575-6",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4245"
+  },
+  "titolo": "The Naked and the Dead",
+  "autore": "Leo Tolstoy",
+  "anno": 1980,
+  "genere": "Giallo",
+  "isbn": "978-0-570-98397-2",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4246"
+  },
+  "titolo": "The Adventures of Huckleberry Finn",
+  "autore": "Bhagavanlal Indrajit",
+  "anno": 1962,
+  "genere": "Fantasy",
+  "isbn": "978-1-6754-6773-2",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4247"
+  },
+  "titolo": "I, Claudius",
+  "autore": "Robert Louis Stevenson",
+  "anno": 1984,
+  "genere": "Giallo",
+  "isbn": "978-1-005-69481-4",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4248"
+  },
+  "titolo": "Sybil",
+  "autore": "Isabel Florence Hapgood",
+  "anno": 1955,
+  "genere": "Storico",
+  "isbn": "978-0-556-25386-0",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4249"
+  },
+  "titolo": "Revolutionary Road",
+  "autore": "Jules Verne",
+  "anno": 1950,
+  "genere": "Giallo",
+  "isbn": "978-0-239-41898-2",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a424a"
+  },
+  "titolo": "The Hobbit",
+  "autore": "Mark Twain",
+  "anno": 2010,
+  "genere": "Sci-Fi",
+  "isbn": "978-1-80247-288-2",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a424b"
+  },
+  "titolo": "The Republic",
+  "autore": "Muriel Spark",
+  "anno": 1960,
+  "genere": "Storico",
+  "isbn": "978-1-904783-75-6",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a424c"
+  },
+  "titolo": "A Modest Proposal",
+  "autore": "Boris Pasternak",
+  "anno": 2004,
+  "genere": "Horror",
+  "isbn": "978-1-047-52249-6",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a424d"
+  },
+  "titolo": "Scoop",
+  "autore": "Martin Amis",
+  "anno": 1973,
+  "genere": "Fantasy",
+  "isbn": "978-0-06-075875-2",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a424e"
+  },
+  "titolo": "A Clockwork Orange",
+  "autore": "Marilynne Robinson",
+  "anno": 1964,
+  "genere": "Giallo",
+  "isbn": "978-0-926765-50-4",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a424f"
+  },
+  "titolo": "The Good Soldier",
+  "autore": "Anton Pavlovich Chekhov",
+  "anno": 1994,
+  "genere": "Horror",
+  "isbn": "978-0-460-09118-3",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4250"
+  },
+  "titolo": "The Red and the Black",
+  "autore": "John Bunyan",
+  "anno": 1975,
+  "genere": "Giallo",
+  "isbn": "978-0-18-786004-8",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4251"
+  },
+  "titolo": "The Adventures of Huckleberry Finn",
+  "autore": "James Dickey",
+  "anno": 1979,
+  "genere": "Horror",
+  "isbn": "978-0-563-33683-9",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4252"
+  },
+  "titolo": "Scoop",
+  "autore": "Nathaniel Hawthorne",
+  "anno": 1982,
+  "genere": "Horror",
+  "isbn": "978-0-614-10823-1",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4253"
+  },
+  "titolo": "The Republic",
+  "autore": "Michael Chabon",
+  "anno": 2017,
+  "genere": "Giallo",
+  "isbn": "978-0-694-75597-4",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4254"
+  },
+  "titolo": "The Black Sheep",
+  "autore": "Khaled Hosseini",
+  "anno": 1991,
+  "genere": "Giallo",
+  "isbn": "978-0-9598754-1-6",
+  "disponibile": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d348acf5e596453a4255"
+  },
+  "titolo": "Jane Eyre",
+  "autore": "J.D. Salinger",
+  "anno": 2016,
+  "genere": "Romanzo",
+  "isbn": "978-1-60279-352-1",
+  "disponibile": false,
+  "__v": 0
+}]

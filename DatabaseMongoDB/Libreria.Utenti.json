@@ -1,0 +1,314 @@
+[{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4224"
+  },
+  "nome": "Martina Gualtieri",
+  "email": "Martina_Gualtieri@yahoo.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Femmina",
+  "eta": 25,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4225"
+  },
+  "nome": "Olinda Caforio",
+  "email": "Olinda.Caforio@email.it",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Femmina",
+  "eta": 68,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4226"
+  },
+  "nome": "Narciso Di Giuseppe",
+  "email": "Narciso.DiGiuseppe32@hotmail.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Maschio",
+  "eta": 35,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4227"
+  },
+  "nome": "Egizia Polese",
+  "email": "Egizia.Polese87@email.it",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Femmina",
+  "eta": 65,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4228"
+  },
+  "nome": "Tullia Flacco",
+  "email": "Tullia_Flacco@gmail.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Femmina",
+  "eta": 66,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4229"
+  },
+  "nome": "Zenone Caporaso",
+  "email": "Zenone_Caporaso17@hotmail.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Maschio",
+  "eta": 24,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a422a"
+  },
+  "nome": "Antonella Novello",
+  "email": "Antonella_Novello35@gmail.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Femmina",
+  "eta": 73,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a422b"
+  },
+  "nome": "Astianatte Barbiero",
+  "email": "Astianatte_Barbiero@hotmail.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Maschio",
+  "eta": 50,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a422c"
+  },
+  "nome": "Rino Celano",
+  "email": "Rino_Celano22@libero.it",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Maschio",
+  "eta": 52,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a422d"
+  },
+  "nome": "Diodoro Da Rold",
+  "email": "Diodoro.DaRold@hotmail.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Maschio",
+  "eta": 28,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a422e"
+  },
+  "nome": "Ampelio Sassano",
+  "email": "Ampelio_Sassano6@libero.it",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Maschio",
+  "eta": 23,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a422f"
+  },
+  "nome": "Pia Zotti",
+  "email": "Pia.Zotti@libero.it",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Femmina",
+  "eta": 44,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4230"
+  },
+  "nome": "Martina Rodigari",
+  "email": "Martina_Rodigari15@yahoo.it",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Femmina",
+  "eta": 69,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4231"
+  },
+  "nome": "Franco Marcello",
+  "email": "Franco_Marcello@libero.it",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Maschio",
+  "eta": 77,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4232"
+  },
+  "nome": "Edvige Simone",
+  "email": "Edvige.Simone@email.it",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Femmina",
+  "eta": 32,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4233"
+  },
+  "nome": "Adolfo Belmonte",
+  "email": "Adolfo.Belmonte13@gmail.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Maschio",
+  "eta": 62,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4234"
+  },
+  "nome": "Fleano Cicala",
+  "email": "Fleano_Cicala@email.it",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Maschio",
+  "eta": 63,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4235"
+  },
+  "nome": "Colmazio Gaspari",
+  "email": "Colmazio.Gaspari64@yahoo.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Maschio",
+  "eta": 23,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4236"
+  },
+  "nome": "Appia Ierardi",
+  "email": "Appia_Ierardi@gmail.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Femmina",
+  "eta": 40,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d335acf5e596453a4237"
+  },
+  "nome": "Fortunata Panetta",
+  "email": "Fortunata.Panetta97@gmail.com",
+  "password": "$2b$10$jgYi4qywwXFZjnzxL2PAFu.YuYAysi2OqjAmuPzI3hKsbU2TooIZq",
+  "isAdmin": false,
+  "genere": "Femmina",
+  "eta": 27,
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:13:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921d38eacf5e596453a4299"
+  },
+  "nome": "druv jhurry",
+  "email": "druv@gmail.com",
+  "password": "$2b$10$XT0UGWXEDAXP6UI.Ily.5.AW3w9tPGISEhPaUCSjpcA6jrP4EZarS",
+  "isAdmin": true,
+  "genere": "Altro",
+  "dataRegistrazione": {
+    "$date": "2025-11-22T15:15:26.181Z"
+  },
+  "__v": 0
+}]
